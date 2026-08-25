@@ -4,7 +4,7 @@ A content-based movie recommender system using Python, Streamlit, and Scikit-Lea
 
 ## How to Run via Command Prompt (cmd)
 
-Follow these steps to run the application on your computer:
+Follow these steps to run the application on your computer: 
 
 ### Step 1: Open Command Prompt and Navigate to the Project Folder
 Open your Command Prompt (`cmd`) and run the following command to go into the project directory:
