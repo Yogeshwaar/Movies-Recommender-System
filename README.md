@@ -31,3 +31,4 @@ python -m streamlit run app.py
 ```
 
 Once executed, the command prompt will output the local URL (usually `http://localhost:8501`). Copy and paste that URL into your web browser to open the movie recommender system.
+ 
